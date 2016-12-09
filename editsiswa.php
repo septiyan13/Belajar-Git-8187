@@ -1,4 +1,6 @@
 <?php
+// update dari server 
+//oleh septiyan sujatmiko
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
